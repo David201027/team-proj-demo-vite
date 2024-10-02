@@ -1,11 +1,11 @@
 {
-  "name": "project-name",
+  "name": "team-proj-demo-vite",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite --host",
-    "build": "vite build --base=/project-name/",
+    "build": "vite build --base=/team-proj-demo-vite/",
     "preview": "vite preview"
   },
   "devDependencies": {
@@ -22,4 +22,4 @@
     "vite-plugin-full-reload": "^1.0.5",
     "vite-plugin-html-inject": "^1.0.1"
   }
-}
+} 
